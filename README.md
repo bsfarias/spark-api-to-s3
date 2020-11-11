@@ -1,7 +1,7 @@
 # SPARK API TO S3
 
 ## Introdução
-Este projeto foi criado com a finalidade de extrair os dados de uma API e persistir os dados em um storage. A [API da Nasa](https://api.nasa.gov/) foi utilizada e um job spark foi desenvolvido para acessá-la, processar o retorno e persistir o resultado em um bucket S3 da AWS.
+Este projeto foi criado com a finalidade de extrair dados de uma API e persistí-los em um storage. A [API da Nasa](https://api.nasa.gov/) foi utilizada e um job spark foi desenvolvido para acessá-la, processar o retorno e persistir o resultado em um bucket S3 da AWS.
 
 ## Pré-requisitos:
 * [docker](https://www.docker.com/products/docker-desktop)
